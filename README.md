@@ -1,7 +1,7 @@
 # eth_price_prediction
  Yapay Sinir Ağları ile Etherium Fiyat Tahmin Analizinde PSO ve Genetik Algoritmaların Optimizasyonu
  
-##Authors
+## Authors
 Yakup Önür, Özgür Ağrali, Gürcan Çetin
 
 # Özet
